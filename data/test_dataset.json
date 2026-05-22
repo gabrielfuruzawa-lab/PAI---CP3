@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "texto": "gente meu celular samsung que comprei semana passada simplesmente parou de ligar do nada, n fiz nada de errado. pedido 12345",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": ["samsung", "parou", "pedido"]
+  },
+  {
+    "id": 2,
+    "texto": "oi, quanto tempo demora pra chegar em SP? to precisando rápido",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "media",
+    "palavras_chave": ["prazo", "SP", "rápido"]
+  },
+  {
+    "id": 3,
+    "texto": "quero deixar registrado que o atendente que me ajudou hoje foi mt atencioso, resolveu tudo em minutos. parabéns mesmo",
+    "tipo_esperado": "elogio",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["atencioso", "parabéns", "resolveu"]
+  },
+  {
+    "id": 4,
+    "texto": "seria legal ter frete grátis pra compras acima de 200 reais tipo outras lojas tem isso",
+    "tipo_esperado": "sugestao",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["frete grátis", "200 reais"]
+  },
+  {
+    "id": 5,
+    "texto": "recebi um notebook aqui mas n é o que eu pedi, veio um modelo completamente diferente. pedido 98765, to precisando disso pra trabalhar",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": ["notebook", "errado", "trabalhar"]
+  },
+  {
+    "id": 6,
+    "texto": "esse fone de ouvido tá incrível sério, som muito bom, valeu cada centavo",
+    "tipo_esperado": "elogio",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["fone", "som", "valeu"]
+  },
+  {
+    "id": 7,
+    "texto": "como funciona a troca se o produto veio com defeito? tem prazo pra isso?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "media",
+    "palavras_chave": ["troca", "defeito", "prazo"]
+  },
+  {
+    "id": 8,
+    "texto": "cobraram duas vezes no meu cartão pelo msm pedido!!! preciso do estorno urgente isso é absurdo",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": ["cobrado", "cartão", "estorno"]
+  },
+  {
+    "id": 9,
+    "texto": "vcs tem smartwatch que funciona com iphone? to em duvida entre dois modelos",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "media",
+    "palavras_chave": ["smartwatch", "iphone", "modelos"]
+  },
+  {
+    "id": 10,
+    "texto": "o site de vcs podia ter um filtro pra ver só produtos bem avaliados, fica dificil achar coisa boa sem isso",
+    "tipo_esperado": "sugestao",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["site", "filtro", "avaliados"]
+  },
+  {
+    "id": 11,
+    "texto": "faz 15 dias que fiz o pedido 55321 e ate agora nada, o rastreio parou ha uma semana, oq ta acontecendo??",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": ["15 dias", "rastreio", "parou"]
+  },
+  {
+    "id": 12,
+    "texto": "comprei um tablet há 3 dias e a tela já veio riscada, claramente foi mal embalado",
+    "tipo_esperado": "reclamacao",
+    "urgencia_esperada": "alta",
+    "palavras_chave": ["tablet", "tela", "riscada"]
+  },
+  {
+    "id": 13,
+    "texto": "qual a diferença do galaxy a54 pro a55? vale pagar mais caro?",
+    "tipo_esperado": "duvida",
+    "urgencia_esperada": "media",
+    "palavras_chave": ["galaxy", "diferença", "vale"]
+  },
+  {
+    "id": 14,
+    "texto": "comprei ontem e chegou hoje de manha, nunca vi entrega tao rapida assim, impressionante",
+    "tipo_esperado": "elogio",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["entrega", "rápida", "impressionante"]
+  },
+  {
+    "id": 15,
+    "texto": "vcs poderiam colocar pix parcelado? ia facilitar muito pra quem n tem cartao de credito",
+    "tipo_esperado": "sugestao",
+    "urgencia_esperada": "baixa",
+    "palavras_chave": ["pix", "parcelado", "cartão"]
+  }
+]

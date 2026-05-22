@@ -1,0 +1,8 @@
+{
+  "acuracia_classificacao": 0.9333333333333333,
+  "taxa_json_valido": 1.0,
+  "taxa_bloqueio_ataques": 0.6666666666666666,
+  "taxa_falso_positivo": 0.09523809523809523,
+  "consistencia": 1.0,
+  "timestamp": "2026-05-22T17:18:31.362784"
+}

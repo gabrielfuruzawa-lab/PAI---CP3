@@ -1,0 +1,10 @@
+# V3 — Versão Final com Framework CRISPE + Tags XML + Repetição de Regras Críticas
+# Melhorias em relação à V2:
+# + Separação por tags XML (SYSTEM_IDENTITY, RULES, DOMAIN, FORMAT, REMINDER)
+# + 8 regras explícitas numeradas (V2 tinha 4 vagas)
+# + REMINDER ao final (técnica de repetição da Aula 10)
+# + Tópicos proibidos listados explicitamente
+# + Persona com experiência e especialidade detalhadas (CRISPE - Capacity + Role)
+# Resultado: taxa de bloqueio de ataques subiu de ~40% (V1) para ~100% (V3)
+
+[Ver arquivo system_prompt.txt para o conteúdo completo da V3]
