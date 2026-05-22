@@ -42,5 +42,5 @@ Assistente que classifica e responde solicitações de clientes de uma loja de e
 
 ### 1. Clone o repositório
 ```bash
-git clone [https://github.com/gabrielfuruzawa-lab/PAI---CP3.git](https://github.com/gabrielfuruzawa-lab/PAI---CP3.git)
+git clone https://github.com/gabrielfuruzawa-lab/PAI---CP3.git
 cd PAI---CP3
